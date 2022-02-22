@@ -1,2 +1,2 @@
 # Katas
-Repositorio-Katas-Innovaccion
+Repositorio de ejercicios Onboarding
